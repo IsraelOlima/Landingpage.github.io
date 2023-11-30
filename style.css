@@ -1,0 +1,210 @@
+*{
+  margin:0;
+  padding: 0;
+  font-family: Verdana;
+  box-sizing: border-box;
+  font-weight: 500;
+}
+
+body{
+  background-color:rgb(0, 0, 0);
+  margin-left: 10px;
+}
+
+.Aboutme {
+  background-color: rgb(255, 255, 255);
+  padding: 10px 10px 10px;
+  color: black;
+  border-radius: 17px;
+  width: 120px;
+  height: 45px;
+  margin-left: 10px;
+  border-style: solid;
+  border-width: 1px;
+  display: block;
+}
+
+.aboutmeinfo {
+ font-size: 10px;
+ font-weight: bolder;
+ padding-left: 11px;
+ padding-top: 10px;
+ font-family: Verdana;
+ 
+}
+
+.services {
+  background-color: #ffa500;
+  font-family: Verdana;
+  padding: 10px 10px 10px;
+  color: black;
+  border-radius: 17px;
+  width: 120px;
+  height: 45px;
+ margin-left: 6px;
+ border-style: solid;
+  border-width: 1px;
+  display: block;
+  margin-top: 28px;
+}
+
+.servicesinfo {
+ font-size: 10px;
+ font-weight: lighter;
+ padding-left: 10px;
+ padding-top: 10px;
+ font-family: Verdana;
+}
+
+ #header {
+  width: 100%;
+  height: 180vh;
+  background-size: cover;
+  background-image: url(images/background.png);
+  background-position: center;
+  color: white;
+  margin-right: 10px;
+  margin-top: 30px;
+ }
+
+ .container {
+  padding: 10px 10px 10px;
+  margin-bottom: 40px;
+ }
+
+ nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+ }
+
+ nav ul li {
+  display: inline-block;
+  list-style: none;
+  margin: 10px 10px;
+ }
+
+ nav ul li a {
+  color: orange;
+  text-decoration: none;
+  font-family: Verdana;
+  font-size: 18px;
+  cursor: pointer;
+ }
+
+ .backgroundimage {
+  padding-top: 900px;
+ }
+
+ .header-text {
+  margin: 90px 40px;
+  font-size: 120px;
+  
+ }
+
+ .header-text h1 {
+  font-size: 60px;
+  margin-top: 20px;
+ }
+
+.icons1{
+  padding-top: 20px;
+}
+
+.work {
+  font-weight: lighter;
+  color: #ffa500;
+}
+.list {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  font-weight: 100;
+  font-size: 22px;
+  padding-left: 30px;
+  line-height: 37px;
+}
+
+.icons2{
+  margin-bottom: 10x;
+  margin-left: 40px;
+  width: 60%;
+}
+
+.text {
+  font-size: 30px;
+  color: black;
+  font-family: Verdana;
+  background-color: white;
+  text-align: center;
+  padding-top: 23px;
+  padding-bottom: 23px;
+  padding-left: 20x;
+  border-radius: 5px;
+  position: static;
+  cursor: pointer;
+}
+
+.CTA{
+  cursor: pointer;
+}
+
+.info {
+  font-size: 12px;
+  margin-bottom: 40px;
+  padding-left: 10px;
+  font-weight: lighter;
+  font-family: Verdana;
+  display:inline-table;
+}
+
+.state{
+  display: inline-table;
+  margin-left: 90px;
+  font-weight: lighter;
+  font-size: 12px;
+}
+
+.phone {
+  display: inline-table;
+  margin-left: 80px;
+  font-weight: lighter;
+  font-size: 12px;
+}
+
+.edu {
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.edutext {
+  background-color: #ffa500;
+  font-family: Verdana;
+  padding: 10px 10px 10px;
+  color:black;
+  border-radius: 17px;
+  width: 120px;
+  height: 45px;
+  margin-top: 20px;
+ margin-left: 2px;
+ border-style: solid;
+  border-width: 1px;
+  display: block;
+  margin-top: 28px;
+}
+
+.contact {
+  background-color: #ffffff;
+  font-family: Verdana;
+  padding: 10px 10px 10px;
+  color:black;
+  border-radius: 17px;
+  width: 120px;
+  height: 45px;
+  margin-top: 20px;
+ margin-left: 2px;
+ border-style: solid;
+  border-width: 1px;
+  display: block;
+  margin-top: 28px;
+}
